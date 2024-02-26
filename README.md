@@ -1,15 +1,15 @@
 # Survey_Analysis_PowerBI
 
---Project Overview:
+**Project Overview**:
 This Power BI project aims to analyze survey data collected from a website where participants provided responses to various questions related to their career, salary, job satisfaction, demographics, and more. The dataset includes attributes such as Unique ID, Email, Date Taken, Time Taken, Browser, OS, City, Country, and multiple survey questions with corresponding responses.
 
-**Project Goals:
+**Project Goals**:
 
--Analyze survey responses to gain insights into participants' career paths, salary ranges, job satisfaction levels, and other relevant factors.
--Identify trends and patterns within the data to inform decision-making processes.
--Create visually appealing and informative dashboards and reports using Power BI for easy consumption and interpretation of insights.
+* Analyze survey responses to gain insights into participants' career paths, salary ranges, job satisfaction levels, and other relevant factors.
+* Identify trends and patterns within the data to inform decision-making processes.
+* Create visually appealing and informative dashboards and reports using Power BI for easy consumption and interpretation of insights.
 
-**Dataset Description:
+**Dataset Description**:
 
 -Unique ID: Identifier for each survey response.
 -Email: Participant's email address (anonymous in this dataset).
@@ -23,7 +23,7 @@ This Power BI project aims to analyze survey data collected from a website where
 -Time Spent: Duration spent by the participant in completing the survey.
 -Q1 - Q13: Survey questions with corresponding responses related to various aspects such as current role, career transition into data, salary, industry, programming language preference, job satisfaction, difficulty breaking into data, job preferences, demographics, etc.
 
-**Project Structure:
+**Project Structure**:
 
 -Data Import and Cleaning: Import the survey dataset into Power BI Desktop, perform data cleaning, handle missing values, and transform the data as necessary.
 
@@ -31,7 +31,7 @@ This Power BI project aims to analyze survey data collected from a website where
 
 -Dashboard Creation: Design interactive dashboards and reports to present the analyzed data in a visually appealing and informative manner. Include filters, slicers, and drill-down capabilities for enhanced interactivity.
 
-**Usage Instructions:
+**Usage Instructions**:
 
 -Prerequisites: Ensure that you have Power BI Desktop installed on your system.
 

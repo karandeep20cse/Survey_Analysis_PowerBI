@@ -1,4 +1,5 @@
 # Survey_Analysis_PowerBI
+Power BI project aims to analyze survey data 
 
 **Project Overview**:
 This Power BI project aims to analyze survey data collected from a website where participants provided responses to various questions related to their career, salary, job satisfaction, demographics, and more. The dataset includes attributes such as Unique ID, Email, Date Taken, Time Taken, Browser, OS, City, Country, and multiple survey questions with corresponding responses.
